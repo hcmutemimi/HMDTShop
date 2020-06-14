@@ -1,5 +1,6 @@
 #HMDTShop
-TÊN SV : TRẦN HOÀI MI     MSSV: 16110152
+TÊN SV : TRẦN HOÀI MI
+MSSV: 16110152
 Tên đề tài: XÂY DỰNG WEBSITE BÁN MỸ PHẨM
 
 Công nghệ sử dụng
